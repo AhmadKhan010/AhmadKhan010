@@ -11,7 +11,7 @@
 
 <h2 align="center">Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhan010&langs_count=8&theme=dark&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhan010&langs_count=22&theme=dark&layout=compact" alt="Top Langs"/>
 </p>
 
 <h2 align="center">Skills:</h2>
